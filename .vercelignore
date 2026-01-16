@@ -1,0 +1,24 @@
+# Development files
+README.md
+DEPLOYMENT.md
+.env.example
+
+# Git
+.git
+.gitignore
+
+# CI/CD
+Jenkinsfile
+buildspec.yml
+Dockerfile
+
+# Tests
+*.test.js
+*.spec.js
+
+# Documentation
+docs/
+
+# IDE
+.vscode
+.idea
